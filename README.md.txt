@@ -8,9 +8,9 @@ This project demonstrates:
 - Dynamic product rendering
 - Basic cart functionality using useState
 
----
 
-## 🚀 Features
+
+Features
 
 - Responsive Navbar
 - Hero Section
@@ -22,7 +22,7 @@ This project demonstrates:
 
 ---
 
-## 🛠 Tech Stack
+Tech Stack
 
 - React (Functional Components)
 - Tailwind CSS
@@ -30,9 +30,9 @@ This project demonstrates:
 
 ---
 
-## 📦 Installation & Setup
+ Installation & Setup
 
-### 1️⃣ Clone the Repository
+Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/simplecart.git
