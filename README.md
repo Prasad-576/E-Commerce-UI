@@ -8,7 +8,7 @@ This project showcases product listings, clean UI design, and smooth user experi
 ## Live Demo
 
 🔗 Deployed on Vercel:  
-https://your-project-name.vercel.app
+https://e-commerce-ui-blue.vercel.app/
 
 
 
