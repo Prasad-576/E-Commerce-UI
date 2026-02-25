@@ -46,7 +46,7 @@ export const products: Product[] = [
         id: 7,
         title: "Portable SSD 1TB",
         price: 8799,
-        image: "https://images.unsplash.com/photo-1563208226-eb5298811e59?auto=format&fit=crop&q=80&w=1000",
+        image: "https://images.unsplash.com/photo-1544837330-67c2691b1064?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
     },
     {
         id: 8,
