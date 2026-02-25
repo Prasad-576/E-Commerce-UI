@@ -9,7 +9,7 @@ export const products: Product[] = [
     {
         id: 1,
         title: "Wireless Noise-Cancelling Headphones",
-        price: 24999,
+        price: 4099,
         image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=1000",
     },
     {
@@ -21,7 +21,7 @@ export const products: Product[] = [
     {
         id: 3,
         title: "Premium Leather Backpack",
-        price: 7199,
+        price: 2700,
         image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&q=80&w=1000",
     },
     {
@@ -33,13 +33,13 @@ export const products: Product[] = [
     {
         id: 5,
         title: "Ergonomic Office Chair",
-        price: 19999,
+        price: 7099,
         image: "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?auto=format&fit=crop&q=80&w=1000",
     },
     {
         id: 6,
         title: "Mechanical Keyboard",
-        price: 10299,
+        price: 2699,
         image: "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&q=80&w=1000",
     },
     {
