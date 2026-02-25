@@ -1,4 +1,4 @@
-# 🛒 SimpleCart – Responsive E-Commerce UI
+ShopFusion Responsive E-Commerce UI
 
 A clean and beginner-friendly single-page E-Commerce website built using **React** and **Tailwind CSS**.
 
