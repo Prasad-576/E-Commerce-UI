@@ -14,7 +14,7 @@ function ProductCard({ product, onAddToCart }: ProductCardProps) {
 
             <div className="flex flex-col flex-grow p-5">
                 <h3 className="mb-2 text-lg font-bold text-slate-800">{product.title}</h3>
-                <p className="mt-auto mb-4 text-xl font-bold text-blue-600">${product.price}</p>
+                <p className="mt-auto mb-4 text-xl font-bold text-blue-600">₹{product.price}</p>
 
                 <button
                     className="w-full px-4 py-2 font-bold text-white transition-colors bg-slate-800 rounded-md hover:bg-blue-600"
