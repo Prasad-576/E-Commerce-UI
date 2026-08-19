@@ -128,7 +128,9 @@ function CartSidebar(props: CartSidebarProps) {
                         <p className="mb-6 text-sm text-gray-500">Shipping and taxes calculated at checkout.</p>
 
                         <button
-                            onClick={() => alert("Proceeding to payments... Integration coming soon!")}
+                            onClick={() => {
+                                alert("Proceeding to payments... Integration coming soon!");
+                            }}
                             className="w-full px-6 py-4 text-lg font-bold text-white transition-colors bg-blue-600 rounded-xl hover:bg-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-500 focus:ring-opacity-50"
                         >
                             Proceed to payments
